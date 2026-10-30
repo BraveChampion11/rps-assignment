@@ -1,0 +1,11 @@
+venv/
+.venv/
+source/
+final_dataset/
+outputs/
+outputs_kfold/
+wandb/
+__pycache__/
+*.zip
+*.mp4
+snapshot_*.png
